@@ -1,0 +1,24 @@
+学生选课
+
+
+//for data base
+class ChoiceNode{
+	private int stuID;
+	private int courseID;
+	//...operat...
+}
+
+class ChoiceLst{
+	private List<ChoiceNode>lst;
+	//...operat...
+}
+
+//for program
+class studentClass{
+	List<int>courseID;
+	/**
+	 *	转换接口
+	 */
+	public int setCourseChoice(ChoiceLst lst);
+	//...other attributes...
+}
