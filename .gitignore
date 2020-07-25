@@ -1,0 +1,5 @@
+gcc_simple/*.o
+gcc_simple/*.out
+gcc_simple/code.c
+gcc_simple/run.c
+gcc_simple/mid.c
